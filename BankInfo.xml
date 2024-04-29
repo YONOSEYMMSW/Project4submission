@@ -1,0 +1,9 @@
+<BankInfo>
+    <Bank bankName = "BSUBank" >
+        <location>Muncie</location>
+        <Customer>Students</Customer>
+        <income>$44000</income>
+
+    </Bank>
+</BankInfo>
+
